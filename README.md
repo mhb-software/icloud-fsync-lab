@@ -1,4 +1,4 @@
-# iCloud Sync Lab
+# iCloud fsync Lab
 
 A diagnostics app for iCloud Drive document sync on iPhone, iPad and Mac. It answers, with numbers
 from real devices, the questions an app faces before it trusts iCloud Drive to carry its documents
@@ -29,3 +29,7 @@ afterward, so choose it deliberately.
 
 Built while planning multi device support for [Mix](https://mix.photos), a photo collage app for
 iPhone and iPad. This is not Mix code and borrows nothing from it.
+
+## License
+
+MIT. See LICENSE.

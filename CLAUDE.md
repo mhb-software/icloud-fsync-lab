@@ -1,4 +1,4 @@
-# iCloud Sync Lab
+# iCloud fsync Lab
 
 A diagnostics app, not a product. See README.md for what it measures. The interface exists to run
 the experiments and show the numbers, nothing more.
